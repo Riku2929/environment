@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+{% block content %}
+<div class="center">
+<h2>ロス管理システム</h2>
+<ul>
+ <a href="{% url 'thrd_object'%}">ロス記入</a>
+ <a href="https://77b31cb714c5404f822f4cb4a45fbc68.vfs.cloud9.ap-northeast-1.amazonaws.com/admin">データ出力</a>
+</ul>
+</div>
+
+{% endblock %}

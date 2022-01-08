@@ -1,0 +1,13 @@
+2022-01-07 16:02:15 [ERROR]: log level: info
+2022-01-07 16:02:15 [INFO]: Retrieving AWS endpoint data
+2022-01-07 16:02:15 [INFO]: OS:  Linux x64 4.14.256-197.484.amzn2.x86_64
+2022-01-07 16:02:15 [INFO]: AWS Cloud9 Extension Host Version:  1.44.2AWS Toolkit Version:  1.33.0
+2022-01-07 16:07:17 [INFO]: telemetry: sent batch (size=3)
+2022-01-07 18:22:56 [ERROR]: [xc [Error]: No AWS profile selected
+	at U3 (/opt/c9/dependencies/aws-toolkit-vscode/6b4306b6dd341292c7d4e8b5c4bd242a603a874b18a8009977ab483b56b0730187d95196fc3265765224feb6e59f940386e1e92ff831bb2ab04f862b7bb8f941/dist/extension.js:2393:269)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async /opt/c9/dependencies/aws-toolkit-vscode/6b4306b6dd341292c7d4e8b5c4bd242a603a874b18a8009977ab483b56b0730187d95196fc3265765224feb6e59f940386e1e92ff831bb2ab04f862b7bb8f941/dist/extension.js:2432:1209]
+2022-01-07 18:22:56 [WARN]: tryRemoveFolder: no folder given
+2022-01-07 18:22:56 [ERROR]: AWS.samcli.deploy.general.error
+2022-01-07 18:27:18 [INFO]: telemetry: sent batch (size=1)
